@@ -1,4 +1,3 @@
-# Ma4110
+# MA4110 Online Foundations of Data Science
 ## Spring 23
-### Online Foundations of Data Science
 
