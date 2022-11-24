@@ -1,7 +1,7 @@
 # MA4110 Online Foundations of Data Science
 ## Spring 23
 
-### Activites
+### Activities
 - Activity 03: Exploring Apple Photos
 - Activity 05: UNC Salaries
 - Activity 06: Exploring the Census
