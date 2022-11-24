@@ -49,7 +49,7 @@
 ### Labs
 - Lab 00: Intro to Jupyter Notebooks and Markdown
 - Lab 01: Expressions
-- Lab 02
+- Lab 02: Table Operations
 - Lab 03
 - Lab 04
 - Lab 05
