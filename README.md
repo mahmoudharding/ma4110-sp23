@@ -61,7 +61,7 @@
 ### Graded Homework
 - Graded Homework 01: Causality and Expressions
 - Graded Homework 02: Arrays and Tables
-- Graded Homework 03
+- Graded Homework 03: Table Manipulation and Visualization
 - Graded Homework 04
 - Graded Homework 05
 - Graded Homework 06
