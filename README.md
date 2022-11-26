@@ -50,7 +50,7 @@
 - Lab 00: Intro to Jupyter Notebooks and Markdown
 - Lab 01: Expressions
 - Lab 02: Table Operations
-- Lab 03
+- Lab 03: Data Types and Arrays
 - Lab 04
 - Lab 05
 - Lab 06
