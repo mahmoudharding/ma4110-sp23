@@ -51,7 +51,7 @@
 - Lab 01: Expressions
 - Lab 02: Table Operations
 - Lab 03: Data Types and Arrays
-- Lab 04
+- Lab 04: Functions and Visualizations
 - Lab 05
 - Lab 06
 - Lab 07
