@@ -6,7 +6,7 @@
 - Activity 05: UNC Salaries
 - Activity 06: Exploring the Census
 - Activity 08: Placement Tests
-- Activity 22: Summarizinf the Course
+- Activity 22: Summarizing the Course
 - Activity 25: Customer Analytics
 - Activity 27 NYC vs. Airbnb
 
@@ -52,9 +52,9 @@
 - Lab 02: Table Operations
 - Lab 03: Data Types and Arrays
 - Lab 04: Functions and Visualizations
-- Lab 05
-- Lab 06
-- Lab 07
+- Lab 05: Simulations
+- Lab 06: Examining the Therapeutic Touch
+- Lab 07: Helicopter Drop
 - Lab 08
 - Lab 09
 
@@ -62,8 +62,8 @@
 - Graded Homework 01: Causality and Expressions
 - Graded Homework 02: Arrays and Tables
 - Graded Homework 03: Table Manipulation and Visualization
-- Graded Homework 04
-- Graded Homework 05
-- Graded Homework 06
+- Graded Homework 04: Functions, Histograms and Groups
+- Graded Homework 05: Probability, Simulation, Estimation and Assessing Models
+- Graded Homework 06: Testing Hypotheses
 - Graded Homework 07
 - Graded Homework 08
