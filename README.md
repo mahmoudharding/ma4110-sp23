@@ -8,7 +8,7 @@
 - Activity 08: Placement Tests
 - Activity 22: Summarizing the Course
 - Activity 25: Customer Analytics
-- Activity 27 NYC vs. Airbnb
+- Activity 27: NYC vs. Airbnb
 
 ### Lessons
 - Lesson 01
