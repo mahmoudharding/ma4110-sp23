@@ -65,5 +65,5 @@
 - Graded Homework 04: Functions, Histograms and Groups
 - Graded Homework 05: Probability, Simulation, Estimation and Assessing Models
 - Graded Homework 06: Testing Hypotheses
-- Graded Homework 07
+- Graded Homework 07: Confidence Intervals
 - Graded Homework 08
