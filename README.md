@@ -11,8 +11,6 @@
 - Activity 27: NYC vs. Airbnb
 
 ### Lessons
-- Lesson 01
-- Lesson 02
 - Lesson 03: Tables and Intro to Python
 - Lesson 04: Data Types
 - Lesson 05: Building Tables
@@ -55,8 +53,8 @@
 - Lab 05: Simulations
 - Lab 06: Examining the Therapeutic Touch
 - Lab 07: Helicopter Drop
-- Lab 08
-- Lab 09
+- Lab 08: Normal Distributions and Variance of Sample Means
+- Lab 09: Regression
 
 ### Graded Homework
 - Graded Homework 01: Causality and Expressions
@@ -66,4 +64,4 @@
 - Graded Homework 05: Probability, Simulation, Estimation and Assessing Models
 - Graded Homework 06: Testing Hypotheses
 - Graded Homework 07: Confidence Intervals
-- Graded Homework 08
+- Graded Homework 08: Bootstrap, Resampling, CLT
