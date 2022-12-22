@@ -11,8 +11,6 @@
 - Activity 27: NYC vs. Airbnb
 
 ### Lessons
-- Lesson 01
-- Lesson 02
 - Lesson 03: Tables and Intro to Python
 - Lesson 04: Data Types
 - Lesson 05: Building Tables
